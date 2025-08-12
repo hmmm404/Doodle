@@ -8,7 +8,7 @@ This project implements a convolutional neural network (CNN) to identify and cla
 
 24m0857 (Skarma Yangskit)
 24m0855 (Ritika Jaiswal)
-24m0856 (Pratik Man shah)
+24m0856 (Pratik Man Shah)
 24m0789 (Omi Kakadiya)
 
 ## Requirements
